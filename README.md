@@ -1,0 +1,2 @@
+# AlgoBet
+Algorithmic betting optimizer.
